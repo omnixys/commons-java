@@ -1,0 +1,22 @@
+package com.omnixys.commons.enums;
+
+public enum InterestType {
+    BANK_PRODUCTS_AND_SERVICES,
+    TECHNOLOGY_AND_INNOVATION,
+    SUSTAINABLE_FINANCE,
+    INVESTMENTS,
+    SAVING_AND_FINANCE,
+    CREDIT_AND_DEBT,
+    REAL_ESTATE,
+    INSURANCE,
+    TRAVEL,
+    CLASSIC,
+    ROCK,
+    HIPHOP,
+    RAP,
+    FOOTBALL,
+    SOCCER,
+    RUGBY,
+    BASKETBALL,
+    FINANCIAL_EDUCATION_AND_COUNSELING
+}
