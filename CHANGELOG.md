@@ -3,6 +3,12 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.1](https://github.com/omnixys/commons-java/compare/v1.0.0...v1.0.1) (2026-07-16)
+
+### Deps
+
+* **Deps:** update dependencies ([](https://github.com/omnixys/commons-java/commit/da50f207af7cfd217481e0bb5d279b2c0c60fa34))
+
 ## 1.0.0 (2026-06-27)
 
 ### CD/CI
