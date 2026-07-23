@@ -3,6 +3,16 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.3](https://github.com/omnixys/commons-java/compare/v1.0.2...v1.0.3) (2026-07-23)
+
+### Action
+
+* **Action:** update java version ([](https://github.com/omnixys/commons-java/commit/bb73298a5c5cb59362fb3771cde8f1480e8a8ffe))
+
+### Other
+
+* **Other:** Merge branch 'main' of https://github.com/omnixys/commons-java ([](https://github.com/omnixys/commons-java/commit/534dbfb51f461e89d4441c2294a8adefd3d9b606))
+
 ## [1.0.2](https://github.com/omnixys/commons-java/compare/v1.0.1...v1.0.2) (2026-07-23)
 
 ### Git
