@@ -3,6 +3,12 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.4](https://github.com/omnixys/commons-java/compare/v1.0.3...v1.0.4) (2026-07-23)
+
+### Action
+
+* **Action:** update workflow ([](https://github.com/omnixys/commons-java/commit/75bea70dd0b0e26eee2313cb1b0405265d154c03))
+
 ## [1.0.3](https://github.com/omnixys/commons-java/compare/v1.0.2...v1.0.3) (2026-07-23)
 
 ### Action
