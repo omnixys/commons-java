@@ -3,6 +3,16 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.5](https://github.com/omnixys/commons-java/compare/v1.0.4...v1.0.5) (2026-08-22)
+
+### Agent
+
+* **Agent:** add repository development instructions ([](https://github.com/omnixys/commons-java/commit/2860069b2998911cd132df5e2d313d223acf9b7e))
+
+### Dir
+
+* **Dir:** remove target dir ([](https://github.com/omnixys/commons-java/commit/8826acfc90c83d3133c8f48a3ddf071210faad4c))
+
 ## [1.0.4](https://github.com/omnixys/commons-java/compare/v1.0.3...v1.0.4) (2026-07-23)
 
 ### Action
