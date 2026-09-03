@@ -3,6 +3,21 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.6](https://github.com/omnixys/commons-java/compare/v1.0.5...v1.0.6) (2026-09-03)
+
+### Ci
+
+* **Ci:** add update release rule for patch releases ([](https://github.com/omnixys/commons-java/commit/4d95f46b5d78248e211d9b093e0399779a941212))
+* **Ci:** align CI structure with full workflow set, 3-job release, and pinned conventionalcommits ([](https://github.com/omnixys/commons-java/commit/971216025792852e57e1c021d817ea58c49be212))
+
+### Other
+
+* **Other:** Merge pull request #1 from omnixys/migration/uuid-v7 ([](https://github.com/omnixys/commons-java/commit/94b6398a0c928a517ae4a20982c9c2ece45ff726)), closes [#1](https://github.com/omnixys/commons-java/issues/1)
+
+### Runtime
+
+* **Runtime:** align spring boot and build toolchain to local standard ([](https://github.com/omnixys/commons-java/commit/8406b3e2d759bbc65603f97d277b521499e4642c))
+
 ## [1.0.5](https://github.com/omnixys/commons-java/compare/v1.0.4...v1.0.5) (2026-08-22)
 
 ### Agent
